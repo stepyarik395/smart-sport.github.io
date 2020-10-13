@@ -1,0 +1,39 @@
+.main-section6{ 
+margin-right: 150px;
+margin-left: 150px;
+background:url("../img/girls.jpg");
+background-position: center center;
+background-size: cover;
+}
+.bg-section{
+	background-color: rgba(255, 150, 0, 0.3);
+}
+.star{
+position: relative;
+top:50px;
+display: flex;
+justify-content:center;
+}
+.stars__main-section6{
+}
+.comets-block{
+	z-index: 2;
+	position: relative;
+	top:100px;
+	display: flex;
+	justify-content:center;
+
+}
+.comets-block img{
+	width: 60%;
+	height: 40%;
+}
+.wrapper-maps{
+	position: relative;
+}
+#map{
+	margin-right: 150px;
+	margin-left: 150px;
+	z-index: 1;
+	height: 635px;
+}

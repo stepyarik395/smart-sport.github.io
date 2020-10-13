@@ -1,0 +1,382 @@
+@media (max-width: 576px) {
+	.wrapper-content{
+		margin: 0;
+		text-align: center;
+	}
+	.up-desc-title{
+		font-size: 14px;
+		letter-spacing: 0;
+	}
+	.title-name{
+		font-size: 30px;
+	}
+	.down-title{
+		margin: 10px;
+		font-size: 18px;
+	}
+	.wrapper-input-box{
+	}
+	.input-box{
+		display: flex;
+		flex-direction:column;
+		align-items:center;
+		margin-bottom: 0;
+	}
+	#input-name{
+		margin: 5px;
+		width: 99.9%;
+		height: 55px;
+	}
+	.button{
+		margin-top:35px;
+		width: 99.9%;
+	}
+
+	.header-title{
+		display: flex;
+		justify-content:center;
+		padding-top: 40px;
+	}
+	.logo{
+		width: 205px;
+		height: 80px;
+	}
+	.checkbox-name{
+		display: none;
+	}
+	.circle-position{
+		margin: 5px;
+	}
+	.circle{
+		display: none;
+		margin: 0;
+	}
+	.main-section2__title__name{
+		text-align: center;
+		margin-top: 5px;
+		font-size: 18px;
+	}
+	.orange-line{
+		margin: 5%;
+	}
+	.ten-days{
+		height: 50px;
+	}
+	.main-section2__img{
+		display: none;
+		position: static;
+	}
+	.advantages-sport {
+
+	}
+	.orange-list{
+		margin: 5px;
+	}
+	.advantages-sport li{
+		font-size: 14px;
+	}
+	.main-section3__title{
+		margin: 24px;
+	}
+	.main-section3__title__name{
+		text-align: center;
+		font-size: 18px;
+	}
+	.slider{
+		position: static;
+	}
+	.slider-img{
+	}
+	.main-section3__button{
+	}
+	.list-slider{
+		text-align: center;
+	}
+	.traine-list{
+		margin-top: 20px;
+	}
+	.main-section4__title{
+		padding-top: 15px;
+	}
+	.main-section4__title__name{
+		font-size: 18px;
+	}
+	.portpholio-smart-studio{
+		margin-top: 10px;
+		display: flex;
+		flex-direction:column;
+		align-items:center;
+	}
+	.cards{
+		margin: 5px;
+	}
+	.title-cards{
+		margin-top: 10px;
+		margin-bottom: 13px;
+	}
+	.desc__tiitle-cards{
+		text-align: auto;
+	}
+	.main-section5__title__name{
+		font-size: 18px;
+		margin-top: 15px;
+	}
+	.masters{
+		display: flex;
+		flex-direction:column;
+		align-items:center;
+	}
+	.masters-cards{
+		margin: 5px;
+	}
+	.name__title-master-cards{
+		text-align: center;
+		margin-top: 15px;
+	}
+	.main-section6{
+		display: none;
+	}
+	.footer-text{
+		font-size: 18px;
+		margin-top: 30px;
+	}
+	.footer-button{
+		margin-top: 15px;
+		margin-bottom: 30px;
+	}
+	#map{
+		height: 400px;
+	}
+	.slick-slider{
+		display: none;
+	}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px){ 
+.wrapper-content{
+		margin: 0;
+		text-align: center;
+	}
+	.up-desc-title{
+		font-size: 16px;
+	}
+	.title-name{
+		font-size: 40px;
+	}
+	.down-title{
+		margin: 10px;
+		font-size: 18px;
+	}
+	.wrapper-input-box{
+	}
+	.input-box{
+		display: flex;
+		flex-direction:column;
+		align-items:center;
+		margin-bottom: 0;
+	}
+	#input-name{
+		margin: 10px;
+	}
+	.button{
+		margin-top:35px;
+	}
+
+	.header-title{
+		display: flex;
+		justify-content:center;
+		padding-top: 150px;
+	}
+	.circle-position{
+		margin: 5px;
+	}
+	.circle{
+		display: none;
+		margin: 0;
+	}
+	.main-section2__title__name{
+		margin-top:20px;
+		font-size: 20px;
+	}
+	.ten-days{
+		height: 50px;
+	}
+	.main-section2__img{
+		position: static;
+	}
+	.advantages-sport {
+
+	}
+	.orange-list{
+		margin: 5px;
+	}
+	.advantages-sport li{
+		font-size: 14px;
+	}
+	.main-section3__title{
+		margin-top: 20px;
+		margin-left: 40px;
+	}
+	.slider{
+		top:0;
+	}
+	.slider-img{
+		margin: 5px;
+	}
+	.main-section3__button{
+	}
+	.list-slider{
+		text-align: center;
+	}
+	.traine-list{
+		margin-top: 20px;
+	}
+	.main-section4__title{
+		padding-top: 15px;
+	}
+	.portpholio-smart-studio{
+		margin-top: 10px;
+	}
+	.cards{
+		margin: 5px;
+	}
+	.title-cards{
+		margin-top: 10px;
+		margin-bottom: 13px;
+	}
+	.desc__tiitle-cards{
+		text-align: auto;
+	}
+	.main-section5__title__name{
+		margin-top: 30px;
+	}
+	.masters-cards{
+		margin: 5px;
+	}
+	.name__title-master-cards{
+		margin-top: 15px;
+	}
+	.footer-text{
+		font-size: 24px;
+		margin-top: 30px;
+	}
+	.footer-button{
+		margin-top: 15px;
+		margin-bottom: 30px;
+	}
+	#map{
+		height: 400px;
+	}
+	.slick-slider{
+		display: none;
+	}
+}
+@media (min-width: 768px) and (max-width: 991.98px){
+	.wrapper-content{
+		margin: 0;
+		text-align: center;
+	}
+	.title-name{
+		font-size: 44px;
+	}
+	.down-title{
+		margin: 10px;
+		font-size: 24px;
+	}
+	.header-title{
+		display: flex;
+		justify-content:center;
+		padding-top: 150px;
+	}
+	.circle-position{
+		margin: 5px;
+	}
+	.circle{
+		position: static;
+	}
+	.main-section2__title__name{
+		margin-top:40px;
+	}
+	.ten-days{
+		height: 50px;
+	}
+	.main-section2__img{
+		position: static;
+	}
+	.slider{
+		top:0;
+	}
+	.main-section3__title{
+		margin-top:30px;
+		margin-left: 50px;
+	}
+	.main-section4__title{
+		padding-top: 40px;
+	}
+	.portpholio-smart-studio{
+		margin-top: 10px;
+	}
+	.main-section5__title__name{
+		margin-top: 30px;
+	}
+	.footer-text{
+		margin-top: 30px;
+	}
+	.footer-button{
+		margin-top: 15px;
+		margin-bottom: 30px;
+	}
+	#map{
+		height: 400px;
+	}
+	.slick-slider{
+	}
+
+}
+@media (max-width: 1405px) {
+	.header-logo{
+		margin: 0;
+		position: static;
+		display: flex;
+		justify-content:center;
+	}
+	.circle{
+		top:55px;
+		margin: 0;
+	}
+
+
+	}
+
+@media (max-width: 1680px) {
+	.main-section1{
+		margin: 0;
+	}
+	.main-section2{
+		margin: 0;
+	}
+	.main-section3{
+		margin: 0;
+	}
+	.main-section4{
+		margin: 0;
+	}
+	.main-section5{
+		margin: 0;
+	}
+	.main-section6{
+		margin: 0;
+	}
+	.footer{
+		margin: 0;
+	}
+	#map{
+		margin: 0;
+		width: 100%;
+	}
+
+}
+
+
+
+

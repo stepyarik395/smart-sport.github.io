@@ -1,0 +1,38 @@
+.footer{
+margin-left: 150px;
+margin-right: 150px;
+text-align: center;
+}
+.footer-text{
+margin-top: 85px;
+display: block;
+font-family: 'Roboto', sans-serif;
+font-weight: 900;
+font-size: 40px;
+text-transform: uppercase;
+}
+.footer-button{
+	margin-top: 45px;
+	margin-bottom: 80px;
+	width: 230px;
+	height: 30px;
+	background-color: #10beff;
+	border: none;
+	text-transform: uppercase;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+.footer-button, 
+button:active, 
+button:focus {
+    outline: none;
+}
+.black-line{
+	display: flex;
+	align-items:center;
+	justify-content:center;
+	height: 30px;
+	background-color: #1f1f1f;
+}
+.black-line span{
+	color:#fff;
+}

@@ -1,0 +1,129 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+}
+.main-section1{
+	margin-left: 150px;
+	margin-right: 150px;
+}
+.header{
+
+}
+.header-logo{
+	position: absolute;
+	top:20px;
+	margin-left: 350px;
+
+}
+.ten-days{
+	height: 85px;
+	display: flex;
+	justify-content:center;
+	align-items:center;
+	text-transform: uppercase;
+	font-family: 'Roboto', sans-serif;
+
+}
+.background{
+	width: 100%;
+	background:url("../img/bcg.jpg") no-repeat;
+	background-position: center center;
+	background-size: cover; 
+}
+.header-title{
+	padding-top: 325px;
+	display: flex;
+	justify-content:flex-end;
+}
+.wrapper-content{
+margin-right: 150px;
+}
+.up-desc-title{
+letter-spacing: 0.5px;
+font-size: 28px;
+text-transform: uppercase;
+font-family: 'Roboto', sans-serif;
+font-weight: 300;
+color:#fff;
+}
+.title-name{
+text-transform: uppercase;
+font-size: 70px;
+font-family: 'Roboto', sans-serif;
+font-weight: 900;
+color:#fff;
+}
+.down-title{
+text-align: center;
+font-size: 28px;
+display: inline-block;
+margin-left: 340px;
+text-transform: uppercase;
+font-family: 'Roboto', sans-serif;
+font-weight: 300;
+color:#fff;
+}
+
+
+.input-box{
+	margin-bottom: 5px;
+}
+.button{
+font-size: 24px;
+background-color: #00aeef;
+border: none;
+text-transform: uppercase;
+color:#fff;
+width: 339px;
+height: 58px;
+}
+.button, 
+button:active, 
+button:focus {
+    outline: none;
+}
+.checkbox-wrapper{
+	margin: 5px;
+	display: flex;
+	align-items:center;
+}
+#input-name{
+width: 335px;
+height: 55px;
+}
+.checkbox-name{
+color:#fff;
+font-size: 28px;
+font-family: 'Roboto', sans-serif;
+font-weight: 300;
+
+}
+#checkbox-butt{
+	margin-right: 20px;
+	display: block;
+}
+.checkbox-name{
+}
+.circle-position{
+	margin-right: 150px;
+	display: flex;
+	justify-content:flex-end;
+}
+
+.circle{
+	position: relative;
+	top:60px;
+	display: flex;
+	align-items:center;
+	justify-content:center;
+	color:#fff;
+	background-color: #00aeef;
+	width: 205px;
+	height: 205px;
+	border-radius: 110px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 900;
+}
